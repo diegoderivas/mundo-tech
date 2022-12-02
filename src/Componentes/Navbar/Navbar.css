@@ -1,0 +1,16 @@
+.imgLogo{
+  height: 7rem;
+}
+
+nav{
+  background-color: #302f4e;
+}
+
+.nav-link, .nav-link:focus{
+  color:#ee8968;
+}
+
+.nav-link:hover{
+  color:#ee8968;
+  text-decoration: underline;
+}
